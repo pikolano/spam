@@ -1,5 +1,5 @@
 # spam
-Read README.txt
+Read README.md
 
 спиздил все в https://fl1yd.su/modules/spam.py
 просто оставил ток 1 команду .spam
